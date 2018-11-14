@@ -1,0 +1,187 @@
+*{
+	text-align: center;
+}
+
+.slogan-position{
+    font-family: Cabin;
+    font-size: 37px;
+    color: wheat;
+    text-decoration: none;
+    margin-left: 60px;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+
+.name{
+    font-family: Cabin;
+    font-size: 10px;
+    letter-spacing: 1;
+    color: wheat;
+    text-decoration: none;
+}
+
+.title-2{
+    margin-top: 17px;
+}
+.sign-up2{
+    margin-top: 10px;
+    margin-right: 30px;
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.sign-up{
+    margin-top: 10px;
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.sign-up:hover{
+    color: white;
+}
+
+.title{
+    font-family: Arial;
+    font-size: 15px;
+    color: wheat;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.title:hover{
+    color: wheat;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.n-color{
+    background-color:rgba(127,127,127,0.6);
+}
+
+ul {
+  list-style-type: none;
+}
+
+.slogan{
+    font-family: Langdon;
+    color: #aac7cd;
+    padding-top: 290px;
+    font-size: 100px;
+}
+
+.slide-down{
+    font-family: Cabin;
+    text-align: center;
+    color: #B99867;
+    background: transparent;
+    border-color: #aac7cd;
+    border-radius: 5px;
+    border-width: 1px;
+    width: 200px;
+    height: 50px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 230px;
+    margin-bottom: 110px;
+}
+
+.section-2{
+    background-color: #283345;
+    color: wheat;
+    font-family: Cabin;
+    font-size: 25px;
+}
+
+.look-lawyer{
+    font-family: Langdon;
+    color: #283345;
+    font-size: 35px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.button{
+    font-family:Cabin;
+    width: 200px;
+    height: 50px;
+}
+
+.info2{
+    color: #283345;
+    font-size: 20px;
+    text-align: left;
+    font-family: Cabin;
+}
+
+.head2{
+    color: #283345;
+    font-family: Langdon;
+    font-size: 35px;
+    text-align: left;
+}
+
+.main-style{
+    background-image: url(../images/Court.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+
+.input-style{
+    text-align: left;
+}
+
+.head{
+    color: #aac7cd;
+    font-family: Langdon;
+    font-size: 35px;
+}
+
+.info{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
+
+.info-cases{
+    color: #283345;
+    font-size: 20px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.info-cases a:visited{
+    color: #283345;
+}
+
+.info-cases a:hover{
+    text-decoration: none;
+}
+
+.lawyer-info{
+    color: black;
+    font-size: 15px;
+    text-align: left;
+}
+
+.section-head{
+    color: #aac7cd;
+    text-align: left;
+}
+
+.case-form{
+    color: gray;
+    font-size: 20px;
+    text-align: left;
+}
+
+.footer{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: #283345;
+    color: white;
+    font-size: 15px;
+}

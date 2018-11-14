@@ -1,0 +1,119 @@
+*{
+	margin:0;
+	text-align: center;
+}
+
+.sign-up{
+    margin-top: 10px;
+    margin-right: 30px;
+}
+
+.slogan-position{
+    font-family: Cabin;
+    font-size: 40px;
+    color: #B99867;
+    text-decoration: none;
+    margin-left: 60px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.n-color{
+    background-color: whitesmoke;
+}
+
+.title-2{
+    margin-top: 14px;
+}
+
+.title{
+    font-family: Arial;
+    font-size: 16px;
+    color: #B99867;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.title:hover{
+    color: #B99867;
+    text-decoration: none;
+    background-color: white;
+}
+
+.modal-header{
+    background-color: #283345;
+    color: #B99867;
+}
+
+.forget-style{
+    color: #283345;
+    font-family: Cabin;
+    text-align: left;
+}
+
+.input-style{
+    text-align: left;
+}
+
+.put-in{
+    float: left;
+}
+.modal-body-style-1{
+    color: #B99867;
+    font-family: Cabin;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.container-fluid{
+    background-image: url(Bikes/Hugh%20Jackman%20photo.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.form-size{
+    height: 100%;
+    margin-top: 70px;
+}
+
+.in-style, .in-style-2{
+    text-align: left;
+}
+
+.subsection{
+    height: 45%;
+}
+
+.subsection-three{
+    background-color: #283345;
+    height: 30%;
+}
+
+.subsection6{
+    height: 10%;
+    background-color: #B99867;
+    margin-top: -0.4px;
+}
+
+.subscribe-button{
+    border: solid 1px;
+    border-radius: 5px;
+    width: 100px;
+    height: 39px;
+    font-family: Cabin;
+    text-align: center;
+    color: #283345;
+    background-color: #B99867;
+    margin-left: 10px;
+}
+
+.media{
+    margin-top: 21px;
+    margin-left: 30px;
+}
+
+.links-position{
+    margin-top: 20px;;
+}

@@ -1,0 +1,16 @@
+.imgpos{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.user-info{
+    font-family: Cabin;
+    font-size: 20px;
+    color: #283345;
+    border-right: 5px solid;
+    border-right-color: #B99867;
+}
+
+.posts{
+    height: 100%;
+}
